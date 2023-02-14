@@ -49,3 +49,13 @@ In order to launch the training, run the main script:
 python main.py
 ```
 This assumes you have pytorch as well as [pyg](https://pytorch-geometric.readthedocs.io/en/latest/) installed.
+
+```
+epoch   0 ~ loss=1.38 ~ acc=35.3%
+epoch   5 ~ loss=0.83 ~ acc=73.5%
+epoch  10 ~ loss=0.09 ~ acc=100.0%
+epoch  15 ~ loss=0.00 ~ acc=100.0%
+epoch  20 ~ loss=0.00 ~ acc=100.0%
+epoch  25 ~ loss=0.00 ~ acc=100.0%
+epoch  30 ~ loss=0.00 ~ acc=100.0%
+```
